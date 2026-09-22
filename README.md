@@ -52,7 +52,6 @@ Agradecimento ao mestre da campanha que inspirou o jogo, **Tio Rafa**.
 
 ## Equipe
 
-- (Integrante 1)
-- (Integrante 2)
-- (Integrante 3)
-- (Integrante 4)
+- Gabriel Flaulhabe
+- Matheus Abraao
+- Mestre Willian
